@@ -12,12 +12,6 @@ The results are being written into a paper at the moment and will be published s
 instead, I will provide code for the runner-up model, DenseNet121.
 '''
 
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Import the required deep-learning modules
 import tensorflow as tf
 from tensorflow import keras
